@@ -1,0 +1,19 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "frogak egiteko",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaizka79/heroku.git"
+  },
+  "author": "Gaizka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaizka79/heroku/issues"
+  },
+  "homepage": "https://github.com/Gaizka79/heroku#readme"
+}
