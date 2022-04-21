@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "helmet": "^5.0.2",
+    "nodemon": "^2.0.15"
+  },
+  "name": "heroku",
+  "description": "herokurekin egiteko frogak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaizka79/heroku.git"
+  },
+  "author": "Gaizka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaizka79/heroku/issues"
+  },
+  "homepage": "https://github.com/Gaizka79/heroku#readme"
+}
