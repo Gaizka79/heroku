@@ -1,0 +1,2 @@
+# heroku
+herokurekin egiteko frogak
